@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .medconnect-text {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: white;
+  }
+  
